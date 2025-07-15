@@ -1,6 +1,6 @@
-# Zerodha Clone – Stock Trading Platform
+# TradeMate – Stock Trading Platform
 
-A full-stack stock trading platform inspired by [Zerodha](https://zerodha.com/), offering functionalities like live order placements, holding management, and position tracking. Built using modern JavaScript technologies and scalable design principles.
+A full-stack stock trading platform, offering functionalities like live order placements, holding management, and position tracking. Built using modern JavaScript technologies and scalable design principles.
 
 ## 🚀 Features
 
