@@ -19,7 +19,7 @@ A full-stack stock trading platform, offering functionalities like live order pl
 
 **Project Structure:**
 ```
-Zerodha-main/
+TradeMate-main/
 │
 ├── backend/
 │   ├── model/               # Mongoose models (Holdings, Orders, Positions)
@@ -34,8 +34,8 @@ Zerodha-main/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Zerodha-main.git
-cd Zerodha-main/backend
+git clone https://github.com/yourusername/TradeMate-main.git
+cd TradeMate-main/backend
 ```
 
 ### 2. Install Dependencies
